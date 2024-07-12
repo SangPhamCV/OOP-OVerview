@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/Section3.dir/src/main.cpp.o CMakeFiles/Section3.dir/include/utils/Company.cpp.o CMakeFiles/Section3.dir/include/utils/Employee.cpp.o CMakeFiles/Section3.dir/include/utils/ManagerEmployee.cpp.o CMakeFiles/Section3.dir/include/utils/ProductionEmployee.cpp.o CMakeFiles/Section3.dir/include/utils/OfficeEmployee.cpp.o  -o Section3 

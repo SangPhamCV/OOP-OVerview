@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/Company.h
+Employee.h
+../include/Employee.h
+vector
+-
+
+../include/Employee.h
+iostream
+-
+string
+-
+
+../include/ManagerEmployee.h
+Employee.h
+../include/Employee.h
+
+../include/OfficeEmployee.h
+Employee.h
+../include/Employee.h
+
+../include/ProductionEmployee.h
+Employee.h
+../include/Employee.h
+
+/home/sangpham/workspace/section3/include/utils/Company.cpp
+Company.h
+/home/sangpham/workspace/section3/include/utils/Company.h
+
+/home/sangpham/workspace/section3/src/main.cpp
+Company.h
+/home/sangpham/workspace/section3/src/Company.h
+OfficeEmployee.h
+/home/sangpham/workspace/section3/src/OfficeEmployee.h
+ProductionEmployee.h
+/home/sangpham/workspace/section3/src/ProductionEmployee.h
+ManagerEmployee.h
+/home/sangpham/workspace/section3/src/ManagerEmployee.h
+

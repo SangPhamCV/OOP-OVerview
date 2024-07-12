@@ -1,0 +1,6 @@
+%compile_commands.json
+%c -std=c11
+%cpp -std=c++17
+%cpp -I./include
+%cpp -I/usr/include
+%cpp -I/usr/bin

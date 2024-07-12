@@ -1,0 +1,32 @@
+[
+{
+  "directory": "/home/sangpham/workspace/section3/build",
+  "command": "/usr/bin/c++   -I/home/sangpham/workspace/section3/include    -std=gnu++17 -o CMakeFiles/Section3.dir/src/main.cpp.o -c /home/sangpham/workspace/section3/src/main.cpp",
+  "file": "/home/sangpham/workspace/section3/src/main.cpp"
+},
+{
+  "directory": "/home/sangpham/workspace/section3/build",
+  "command": "/usr/bin/c++   -I/home/sangpham/workspace/section3/include    -std=gnu++17 -o CMakeFiles/Section3.dir/include/utils/Company.cpp.o -c /home/sangpham/workspace/section3/include/utils/Company.cpp",
+  "file": "/home/sangpham/workspace/section3/include/utils/Company.cpp"
+},
+{
+  "directory": "/home/sangpham/workspace/section3/build",
+  "command": "/usr/bin/c++   -I/home/sangpham/workspace/section3/include    -std=gnu++17 -o CMakeFiles/Section3.dir/include/utils/Employee.cpp.o -c /home/sangpham/workspace/section3/include/utils/Employee.cpp",
+  "file": "/home/sangpham/workspace/section3/include/utils/Employee.cpp"
+},
+{
+  "directory": "/home/sangpham/workspace/section3/build",
+  "command": "/usr/bin/c++   -I/home/sangpham/workspace/section3/include    -std=gnu++17 -o CMakeFiles/Section3.dir/include/utils/ManagerEmployee.cpp.o -c /home/sangpham/workspace/section3/include/utils/ManagerEmployee.cpp",
+  "file": "/home/sangpham/workspace/section3/include/utils/ManagerEmployee.cpp"
+},
+{
+  "directory": "/home/sangpham/workspace/section3/build",
+  "command": "/usr/bin/c++   -I/home/sangpham/workspace/section3/include    -std=gnu++17 -o CMakeFiles/Section3.dir/include/utils/ProductionEmployee.cpp.o -c /home/sangpham/workspace/section3/include/utils/ProductionEmployee.cpp",
+  "file": "/home/sangpham/workspace/section3/include/utils/ProductionEmployee.cpp"
+},
+{
+  "directory": "/home/sangpham/workspace/section3/build",
+  "command": "/usr/bin/c++   -I/home/sangpham/workspace/section3/include    -std=gnu++17 -o CMakeFiles/Section3.dir/include/utils/OfficeEmployee.cpp.o -c /home/sangpham/workspace/section3/include/utils/OfficeEmployee.cpp",
+  "file": "/home/sangpham/workspace/section3/include/utils/OfficeEmployee.cpp"
+}
+]
